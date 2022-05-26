@@ -10,7 +10,7 @@ footer_text: >
 
 
 url:  https://adityaj2003.github.io
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
+baseurl: # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
