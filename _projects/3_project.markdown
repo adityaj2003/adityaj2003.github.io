@@ -2,7 +2,7 @@
 layout: page
 title: ChessIsVeryHard.games website
 description:
-img: /assets/img/TDL_SS1.jpg
+img: /assets/img/Chess1.jpg
 ---
 Built a chess playing website using JS, PHP, MySQL and MariaDB. The website allows you to play with a computer engine, analyse a game, evaluate a position using the StockFish 14 chess engine, Chess.js and ChessBoard.js
 
