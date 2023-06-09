@@ -17,7 +17,7 @@ social: true
 
 Hello! Welcome to my personal website. This is a place to share my personality and experiences a little more than what is seen on a 1 page resume.
 
-I am Aditya Jadhav, junior at the University of Arizona currently majoring in CS with a minor in SDS (Statistics and Data Science). I have experience with <strong>Java</strong> and <strong>Python</python>. I have experience working with Web development in technologies such as ReactJS, NodeJS, PHP. Currently interested and working on <strong>ML/AI</strong> projects with <strong>Python, Scikit-learn, NumPy</strong>. My Projects can be accessed through the Projects tab at the top. 
+I am Aditya Jadhav, junior at the University of Arizona currently majoring in CS with a minor in SDS (Statistics and Data Science). I have experience with <strong>Java</strong> and <strong>Python</strong>. I have experience working with Web development in technologies such as ReactJS, NodeJS, PHP. Currently interested and working on <strong>ML/AI</strong> projects with <strong>Python, Scikit-learn, NumPy</strong>. My Projects can be accessed through the Projects tab at the top. 
 
 I currently work under Dr. Chicheng Zhang at the UArizona CS Department on active learning using early stopping gradient descent under
 Tsybakov Noise. Currently writing the theoretical algorithm into code for reducing label complexity in Python. I previously worked as an Undergraduate Research Assistant at the [ToMCAT project](https://ml4ai.github.io/tomcat/). I made a Flask webapp using Python for the project previously and data visualisation dashboard using wxWdigets and C++ for displaying sensor data captured throughtout the experiment. 
