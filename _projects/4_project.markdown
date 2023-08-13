@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ToDoList
+title: YouTube Transcript to Notion Exporter Extension
 description:
 img: /assets/img/YoutubeToNotion.png
 ---
-This project aims to export the summary of a youtube video you are currently watching into your notion notebook. It uses OpenAI API, GoogleCloud, Node and Express to get summary of the youtube video.<br/><br/> I use PyTube to get the youTube URL's audio, GCloud to get the transcript of the audio and the OpenAI API to get a summary of the video. I then use the NotionAPI to export the summary to the Notion Page. 
+This project aims to export the summary of a YouTube video you are currently watching into your notion notebook. It uses OpenAI API, GoogleCloud, Node and Express to get summary of the youtube video.<br/><br/> I use PyTube to get the YouTube URL's audio, GCloud to get the transcript of the audio and the OpenAI API to get a summary of the video. I then use the NotionAPI to export the summary to the Notion Page. It uses Node to manage all packages and Express to handle all server-client networking. 
 
 
 
