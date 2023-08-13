@@ -1,21 +1,17 @@
 ---
 layout: page
-title: ToDoList
+title: YouTube Transcript to Notion Exporter Extension
 description:
-img: /assets/img/TDL_SS1.jpg
+img: /assets/img/YoutubeToNotion.png
 ---
-Built a working ToDoList using Java and JavaFX. Users can add different tasks,
-customize lists, add deadlines and sort tasks by deadline or priority. <br/><br/>
-The program takes input about the a new list or task with a pop-up screen. The user inputs name, deadline and other things (or choose to ignore them) and the new task shows up on the GUI. JavaFX is now outdated and therefore doesn't allow a very aesthetic looking GUI but it can be replicated using any other library as well. <br/><br/>
-The tasks can be sorted by either deadline, priority or time created. Users can also tick off tasks completed, edit tasks or remove tasks. The tasks are color coded according to their priority for visual ease as well.
+This project aims to export the summary of a YouTube video you are currently watching into your notion notebook. It uses OpenAI API, GoogleCloud, Node and Express to get summary of the youtube video.<br/><br/> I use PyTube to get the YouTube URL's audio, GCloud to get the transcript of the audio and the OpenAI API to get a summary of the video. I then use the NotionAPI to export the summary to the Notion Page. It uses Node to manage all packages and Express to handle all server-client networking. 
 
 
 
 <div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/TDL_SS1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/TDL_SS2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/TDL_SS3.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/YTNotion1.png" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/YTNotion2.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-    First image shows the task pane and list pane with tasks added in the grocery list. Second image shows the pop-up for adding new tasks. Thir image is the dropdown for sorting.
+    First image shows the Extension on the chrome web browser. It automatically extracts the url of the current youtube page being played and sends it to the server for processing. The second image shows the summary of the URL in your selected notion page. 
 </div>

@@ -1,17 +1,23 @@
 ---
 layout: page
-title: YouTube Transcript to Notion Exporter Extension
-description:
-img: /assets/img/YoutubeToNotion.png
+title: Wordle Game
+description: Wordle game made using Java and JavaFX
+img: /assets/img/Wordle_SS.jpg
 ---
-This project aims to export the summary of a YouTube video you are currently watching into your notion notebook. It uses OpenAI API, GoogleCloud, Node and Express to get summary of the youtube video.<br/><br/> I use PyTube to get the YouTube URL's audio, GCloud to get the transcript of the audio and the OpenAI API to get a summary of the video. I then use the NotionAPI to export the summary to the Notion Page. It uses Node to manage all packages and Express to handle all server-client networking. 
 
+Built a working replica of the popular wordle game implementing Object Oriented
+Programming. The GUI works exactly like the wordle game with animations, on
+screen buttons and keyboard input. <br/><br/>
+The program is made using Java and JavaFX keeping OOP in mind. This was built as a class project which I implemented further and implemented on-screen buttons along with keyboard input and further improved the aesthetics with getting the original colors of wordle by inspect-element. Also has animations which are implemented by JavaFX
 
 
 <div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/YTNotion1.png" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/YTNotion2.png" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/Wordle_SS.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-    First image shows the Extension on the chrome web browser. It automatically extracts the url of the current youtube page being played and sends it to the server for processing. The second image shows the summary of the URL in your selected notion page. 
+    The image represents the state of the game after the word has been guessed. The different colors for the letters guessed can be seen along with showing the letters already guessed underneath.
 </div>
+
+
+
+<br/><br/>

@@ -1,23 +1,17 @@
 ---
 layout: page
-title: Wordle Game
-description: Wordle game made using Java and JavaFX
-img: /assets/img/Wordle_SS.jpg
+title: ChessIsVeryHard.games website
+description:
+img: /assets/img/Chess1.png
 ---
+Built a chess playing website using JS, PHP, MySQL and MariaDB. The website allows you to play with a computer engine, analyse a game, evaluate a position using the StockFish 14 chess engine, Chess.js and ChessBoard.js
 
-Built a working replica of the popular wordle game implementing Object Oriented
-Programming. The GUI works exactly like the wordle game with animations, on
-screen buttons and keyboard input. <br/><br/>
-The program is made using Java and JavaFX keeping OOP in mind. This was built as a class project which I implemented further and implemented on-screen buttons along with keyboard input and further improved the aesthetics with getting the original colors of wordle by inspect-element. Also has animations which are implemented by JavaFX
 
 
 <div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/Wordle_SS.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/Chess1.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-    The image represents the state of the game after the word has been guessed. The different colors for the letters guessed can be seen along with showing the letters already guessed underneath.
+    This image shows the features of the game. Engine evaluating best move. The depth of evaluation is set to 20. Also seen are the toggles for computer play.
 </div>
 
-
-
-<br/><br/>
