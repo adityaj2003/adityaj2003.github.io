@@ -2,7 +2,7 @@
 layout: page
 title: Chess Vision Program
 description: Get a chess position from a picture of a chess board
-img: /assets/img/Wordle_SS.jpg
+img: /assets/img/Chess_Vision_SS2.jpg
 ---
 
 Developed an innovative computer vision solution capable of recognizing and analyzing chessboard positions from images. The program efficiently extracts a chessboard from a given picture and accurately identifies the positions of the pieces, facilitating the conversion of these positions into a standard chess notation (FEN - Forsyth-Edwards Notation).
