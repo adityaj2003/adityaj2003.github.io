@@ -21,4 +21,9 @@ The program demonstrates my proficiency in combining machine learning algorithms
     This image showcases the program’s step by step process of recognizing a chessboard.
 </div>
 
+We group the lines in the 3rd picture which are closer together into 1 and divide chessboard into 64 individual squares. Then we sent the subsquare into a trained model to predict the chess piece. Then we finally construct fen from it. We get the output like this:-
+Image: test4.jpg
+Ground Truth FEN: r1b1kbnr/1pp11ppp/p1p11111/11111111/111NP111/11111111/PPP11PPP/RNB1K11R
+Inception Model FEN: rnrNkrnr/npp11ppp/pnp11111/11111111/111NP111/11111111/PPP11BPN/rNB1N11N, Accuracy: 84.50704225352112%
+ResNet Model FEN: rNrNkrnr/Nbp11ppp/pNp11111/1111111N/11NNQ111/1111111N/BPN1NPPP/RNNNNPPR, Accuracy: 73.23943661971832%
 <br/><br/>
