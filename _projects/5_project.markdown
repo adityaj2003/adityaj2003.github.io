@@ -18,7 +18,7 @@ The program demonstrates my proficiency in combining machine learning algorithms
     <img class="col one left" src="{{ site.baseurl }}/assets/img/Chess_Vision_SS4.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-    This image showcases the program’s capability to accurately recognize a chessboard from a photograph and translate it into a digital format. The clarity with which each piece is identified and positioned on the board highlights the precision of the software.
+    This image showcases the program’s step by step process of recognizing a chessboard.
 </div>
 
 <br/><br/>
