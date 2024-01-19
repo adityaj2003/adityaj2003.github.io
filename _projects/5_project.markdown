@@ -14,10 +14,10 @@ The program demonstrates my proficiency in combining machine learning algorithms
 <div class="img_row">
     <img class="col one left" src="{{ site.baseurl }}/assets/img/Chess_Vision_SS1.jpg" alt="" title="example image"/>
     <img class="col one left" src="{{ site.baseurl }}/assets/img/Chess_Vision_SS2.jpg" alt="" title="example image"/>
-        <img class="col one left" src="{{ site.baseurl }}/assets/img/Chess_Vision_SS3.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/Chess_Vision_SS3.jpg" alt="" title="example image"/>
     <img class="col one left" src="{{ site.baseurl }}/assets/img/Chess_Vision_SS4.jpg" alt="" title="example image"/>
 </div>
-<div class="col three caption">
+<div class="col four caption">
     This image showcases the program’s step by step process of recognizing a chessboard.
 </div>
 
