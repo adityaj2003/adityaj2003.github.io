@@ -10,8 +10,10 @@ Built a chess playing website using JS, PHP, MySQL and MariaDB. The website allo
 
 <div class="img_row">
     <img class="col one left" src="{{ site.baseurl }}/assets/img/Chess1.png" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/Chess2.png" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/Chess3.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-    This image shows the features of the game. Engine evaluating best move. The depth of evaluation is set to 20. Also seen are the toggles for computer play.
+    This image shows the features of the game. Engine evaluating best move. The depth of evaluation is set to 20. Also seen are the toggles for computer play. We also see multiplayer screen in the middle and the successful puzzle screen on the right. 
 </div>
 
