@@ -1,21 +1,16 @@
----
-layout: default
----
-
-<div class="header-bar">
-  <h1>{{ site.blog_name }}</h1>
-  <h2>{{ site.blog_description }}</h2>
-</div>
-
-
-<ul class="post-list">
-  {% for post in paginator.posts %}
-    <li>
-      <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-      <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
-      <p>{{ post.description }}</p>
-    </li>
-  {% endfor %}
-</ul>
-
-{% include pagination.html %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=https://personal-website-theta-plum.vercel.app">
+    <title>Redirecting...</title>
+    <script type="text/javascript">
+        setTimeout(function() {
+            window.location.href = "https://personal-website-theta-plum.vercel.app";
+        }, 0);
+    </script>
+</head>
+<body>
+    <p>If you are not redirected automatically, follow this <a href="https://personal-website-theta-plum.vercel.app">link</a>.</p>
+</body>
+</html>
